@@ -1,0 +1,17 @@
+{
+    "name": "whsuite/utilities",
+    "description": "Utilities and helpers for WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\Utilities" : "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
